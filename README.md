@@ -2,6 +2,12 @@
 
 根据IP获取城市信息
 
+### 安装 
+
+~~~
+composer require thefunpower/get_geo_by_ip
+~~~
+
 ### 调用
 
 ~~~
