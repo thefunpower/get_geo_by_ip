@@ -1,0 +1,21 @@
+{
+    "name": "thefunpower/get_geo_by_ip",
+    "type": "library",
+    "description": "get_geo_by_ip",
+    "keywords": ["php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ken.sun",
+            "email": "kungfutime@foxmail.com" 
+        }
+    ],
+    "require": {
+        "geoip2/geoip2": "~2.0"
+    },
+    "autoload": { 
+        "files": [
+            "./helper.php"
+        ] 
+    }
+}
