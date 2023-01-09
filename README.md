@@ -29,3 +29,8 @@ Array
     [isoCode] => CN
 )
 ~~~
+
+
+### 授权
+
+[MIT](LICENSE)协议
