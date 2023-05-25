@@ -34,3 +34,7 @@ Array
 ### 授权
 
 [MIT](LICENSE)协议
+
+###  GeoLite LICENSE
+
+[CC Attribution-ShareAlike 4.0](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en)
