@@ -38,3 +38,7 @@ Array
 ###  GeoLite LICENSE
 
 [CC Attribution-ShareAlike 4.0](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en)
+
+
+wp-statistics/GeoLite2-City  [GeoLite2-City.mmdb](https://github.com/wp-statistics/GeoLite2-City.git)
+
