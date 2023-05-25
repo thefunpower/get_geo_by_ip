@@ -39,6 +39,9 @@ Array
 
 [CC Attribution-ShareAlike 4.0](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en)
 
+### GeoLite.mmdb
 
-wp-statistics/GeoLite2-City  [GeoLite2-City.mmdb](https://github.com/wp-statistics/GeoLite2-City.git)
+[wp-statistics/GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City.git)
+
+[P3TERX/GeoLite](https://github.com/P3TERX/GeoLite.mmdb)
 
