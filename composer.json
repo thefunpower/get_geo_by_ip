@@ -3,7 +3,7 @@
     "type": "library",
     "description": "IP地址解析为地址",
     "keywords": ["php"],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "kenken"
