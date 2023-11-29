@@ -31,9 +31,6 @@ Array
 ~~~
 
 
-### 授权
-
-[MIT](LICENSE)协议
 
 ###  GeoLite LICENSE
 
@@ -44,4 +41,10 @@ Array
 [wp-statistics/GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City.git)
 
 [P3TERX/GeoLite](https://github.com/P3TERX/GeoLite.mmdb)
+
+
+
+### LICENSE
+
+[Apache License 2.0](LICENSE)
 
